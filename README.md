@@ -1,5 +1,7 @@
 
-# AStarPortfolio3 is an implementation of the A* Algorithm, written in JavaFX.
+# AStarPortfolio3
+
+This software is an implementation of the A* Algorithm, written in JavaFX.
 
 The application is used to find of the shortest path from a start to an end vertex
 
